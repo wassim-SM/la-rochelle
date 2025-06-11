@@ -13,7 +13,7 @@ const HeroSection = () => {
     >
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-4">
         <h1 className="text-4xl md:text-6xl font-bold text-black dark:text-white">
-          Bien Venu Chez La Rochelle Location
+          Bien Venu Chez Degui Location
         </h1>
         <p className="mt-4 text-lg text-gray-600 dark:text-gray-300 max-w-xl">
           Service de location de voiture pour<FlipWords words={["marriage","evenement","seminaire"]} />

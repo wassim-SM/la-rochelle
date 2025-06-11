@@ -7,7 +7,7 @@ import {
   useScroll,
   useMotionValueEvent,
 } from "motion/react";
-import Logo from "../../public/imgs/photo_2025-06-10_13-29-00-removebg-preview.png"
+import Logo from "../../public/imgs/download-removebg-preview.png"
 import React, { useRef, useState } from "react";
 import Image from "next/image";
 
@@ -197,7 +197,7 @@ export const NavbarLogo = () => {
       className="relative z-20 mr-4 flex items-center space-x-2 px-2 py-1 text-sm font-normal text-black dark:text-white">
       <Image src={Logo} alt="logo" width={30} height={30} />
       <span className="font-medium">
-        La rochelle <span className="text-orange-700">Location</span>
+        Degui <span className="text-orange-700">Location</span>
       </span>
     </a>
   );
